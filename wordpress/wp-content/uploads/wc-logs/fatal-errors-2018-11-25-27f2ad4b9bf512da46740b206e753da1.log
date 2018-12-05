@@ -1,0 +1,6 @@
+2018-11-25T11:10:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\wordpress\wp-content\plugins\ti-woocommerce-wishlist\tinv-wishlists-function-integration.php on line 10
+
+2018-11-25T11:10:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\widgets\social.php on line 9
+
+2018-11-25T11:10:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\wordpress\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib.php on line 146
+
