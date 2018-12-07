@@ -1,6 +1,0 @@
-2018-11-27T04:31:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\wordpress\wp-includes\widgets\class-wp-widget-media.php on line 17
-
-2018-11-27T04:32:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\wordpress\wp-content\plugins\ocean-extra\includes\shortcodes\shortcodes.php on line 11
-
-2018-11-27T04:33:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in F:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
-
